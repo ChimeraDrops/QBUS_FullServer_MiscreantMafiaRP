@@ -1,5 +1,7 @@
 www.twitch.tv/ksuie - I stream all the time while I am modding, stop by if you are learning to mod/code.  I am not expert but we can learn together.  I made many of the scripts in this repository that have my name on them.
 
+YOU ARE GOING TO NEED TO FIND YOUR OWN MAPS FOR MT. ZONAH THE PRISON THE CASINO AND THE POLICE STATIONS THERE ARE PLENTY OUT THERE, YOU WILL HAVE TO MOVE LOCATIONS INSIDE YOUR RELEVANT JOB FILES IN ORDER TO SET YOUR INTERACTION ACCESS POINTS.
+
 Current Project:
 Miscreant Mafia - REDM
 After building the miscreant mafia FiveM server we decided to build a new RedM server.  That is our current project. Please consider joing our RedM discord and Server:
